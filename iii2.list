@@ -11,6 +11,11 @@ DOMAIN-SUFFIX,zbhgpt.uk
 DOMAIN-SUFFIX,zbhgpt.us.kg
 DOMAIN-SUFFIX,zhazhahui.uk
 DOMAIN-SUFFIX,cobalt.tools
-DOMAIN-SUFFIX,libvio.fun
+
 DOMAIN-SUFFIX,imput.net
-DOMAIN-SUFFIX,xlys01.com
+
+# DOMAIN-SUFFIX,xlys01.com
+
+DOMAIN-SUFFIX,libvio.cloud
+DOMAIN-SUFFIX,libvio.link
+DOMAIN-SUFFIX,libvio.fun
