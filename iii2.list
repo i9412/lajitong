@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,libvio.cloud
 DOMAIN-SUFFIX,libvio.link
 DOMAIN-SUFFIX,libvio.fun
 
+DOMAIN-SUFFIX,imdada.cn
+
 DOMAIN,delivery-api.imdada.cn.gslb.qianxun.com
 DOMAIN,inshop.imdada.cn.gslb.qianxun.com
 DOMAIN,exp.imdada.cn.gslb.qianxun.com
