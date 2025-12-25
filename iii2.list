@@ -14,6 +14,11 @@ DOMAIN-SUFFIX,zbhai.us.kg
 DOMAIN-SUFFIX,zbhai.dpdns.org
 DOMAIN-SUFFIX,zbhgpt.dpdns.org
 
+# 币安
+DOMAIN-SUFFIX,bnappweb.biz
+DOMAIN-SUFFIX,bscdnweb.com
+DOMAIN-SUFFIX,binance.info
+
 DOMAIN-SUFFIX,cloudflare.com
 
 DOMAIN-SUFFIX,cobalt.tools
