@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,libvio.link
 DOMAIN-SUFFIX,libvio.fun
 DOMAIN-SUFFIX,libvio.cc
 DOMAIN-SUFFIX,vbing.me
+DOMAIN-SUFFIX,libvio.mov
 
 DOMAIN-SUFFIX,imdada.cn
 
@@ -44,3 +45,8 @@ DOMAIN,inshop.imdada.cn.gslb.qianxun.com
 DOMAIN,exp.imdada.cn.gslb.qianxun.com
 
 DOMAIN-SUFFIX,ebay.com
+
+# 美团
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,sankuai.com
