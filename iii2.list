@@ -50,7 +50,13 @@ DOMAIN,delivery-api.imdada.cn.gslb.qianxun.com
 DOMAIN,inshop.imdada.cn.gslb.qianxun.com
 DOMAIN,exp.imdada.cn.gslb.qianxun.com
 
-DOMAIN-SUFFIX,ebay.com
+DOMAIN-SUFFIX,ebay.com,DIRECT
+DOMAIN-SUFFIX,ebayimg.com,DIRECT
+DOMAIN-SUFFIX,ebaystatic.com,DIRECT
+DOMAIN-SUFFIX,ebaycdn.net,DIRECT
+DOMAIN-SUFFIX,ebay-us.com,DIRECT
+DOMAIN-SUFFIX,ebaydesc.com,DIRECT
+DOMAIN-SUFFIX,ebayadservices.com,DIRECT
 
 # 美团
 DOMAIN-SUFFIX,meituan.com
